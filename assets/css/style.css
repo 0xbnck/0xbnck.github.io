@@ -614,7 +614,11 @@ section {
 }
 
 .contactimg {
-  height: 80px;
+  height: 60px;
+}
+
+.filter-app {
+  margin: 10px 0;
 }
 
 .contract-wraph5 {
