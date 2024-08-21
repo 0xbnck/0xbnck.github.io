@@ -348,6 +348,14 @@ section {
   margin-bottom: 0;
 }
 
+.contract-wraph5 a {
+  color: rgb(41, 40, 40);
+  font-weight: bolder;
+}
+
+#footer .contactItem {
+  margin: 5px 0;
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
